@@ -7,7 +7,7 @@ The HANDi Hand consists of off-the-shelf servomotors, potentiometers, FSRs, metr
 
 * __3D Print Files:__ The folder that contains the raw STL files as well as the .THING and .x3g files for 3D printing on a Makerbot Replicator 2. NOTE: The STL files have been adjusted to print with proper tolerances in the PLA material. Further, the print orientation is important for many of the files; refer to the .thing files provided if printing .STL files with other softwares besides MakerWare to ensure the proper print orientation.
 * __STEP Files:__ This folder contains the STEP files for each of the parts used in the hand, which should be importable into most 3D CAD softwares.
-* __Arduino Sketches:__ This folder contains Arduino sketches that are used for testing the hand during assembly, as well as control of the hand once assembly is complete.
+* __Software:__ This folder contains Arduino sketches that are used for testing the hand during assembly, as well as control of the hand once assembly is complete.
 
 The assembly manual also includes a Bill of Materials: a detailed list of the off-the-shelf materials and parts required to build the HANDi Hand. Note: We have listed the distributors that we have used in the past as a point of reference, but be aware that there are multiple distributor options for each part and that we do not endorse the listed distributors in any way.
 
