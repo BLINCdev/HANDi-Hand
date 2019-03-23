@@ -1,3 +1,5 @@
+__HITEC HS 35-HD DISCONTINUATION NOTICE:__ The Hitec servos used in this design have unfortunately been discontinued. We are currently testing other servo options. If you have built or would like to build a HANDi Hand, and would like information about pre-release parts for the new servo change design, please reach out to us at blincdev@gmail.com.
+
 # HANDi Hand
 The Humanoid, Anthropometric, Naturally Dexterous, Intelligent (HANDi) Hand is an anthropometric robotic hand designed specifically for machine learning research in prosthetic applications. The HANDi Hand includes 6 degrees of freedom (each finger flexes independently; thumb rotation is separate from thumb flexion). The hand was designed to be 1:1 scale with anatomical proportions and uses Hitec HS-35HD servo-motors. The HANDi Hand is ideally suited for machine learning and sensory feedback research, but can also be used in general purpose robotics applications.
 
